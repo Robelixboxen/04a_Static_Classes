@@ -21,6 +21,7 @@ public class App {
 		ausgabe(preStr + RechnerStat.quotient(2, 4));
 		
 		ausgabe(preStr + Math.PI);
+		// hallo test ob es geht
 		
 	}
 
